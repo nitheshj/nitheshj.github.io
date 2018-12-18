@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "TestForGravity",
+"companyName": "Graviton Bender",
+"productName": "Graviton Bender",
 "dataUrl": "WebBuild.data.unityweb",
 "wasmCodeUrl": "WebBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebBuild.wasm.framework.unityweb",
