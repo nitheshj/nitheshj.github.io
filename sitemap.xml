@@ -3,6 +3,18 @@
   
     <url>
     
+      <loc>/publication/human-in-the-loop/</loc>
+      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/situation-awareness/</loc>
+      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/project/arg/</loc>
       <lastmod>2019-04-10T00:00:00-04:00</lastmod>
     </url>
@@ -38,6 +50,20 @@
   
     <url>
     
+      <loc>/publication_types/0/</loc>
+      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/a-madkour/</loc>
+      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/author/</loc>
       <priority>0</priority>
     </url>
@@ -45,6 +71,7 @@
     <url>
     
       <loc>/authors/</loc>
+      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -77,6 +104,13 @@
   
     <url>
     
+      <loc>/authors/nithesh-javvaji/</loc>
+      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/post/</loc>
     </url>
   
@@ -90,12 +124,14 @@
     <url>
     
       <loc>/publication_types/</loc>
+      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>/publication/</loc>
+      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
     </url>
   
     <url>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>interactive-visualization on Nithesh Javvaji</title>
-    <link>/tags/interactive-visualization/</link>
-    <description>Recent content in interactive-visualization on Nithesh Javvaji</description>
+    <title>0 on Nithesh Javvaji</title>
+    <link>/publication_types/0/</link>
+    <description>Recent content in 0 on Nithesh Javvaji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Apr 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/interactive-visualization/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,12 +21,12 @@
     </item>
     
     <item>
-      <title>Measuring Individual Differences and Adaptability</title>
-      <link>/project/arg/</link>
+      <title>Computational Modeling of Situation Awareness in a Business Simulation Game</title>
+      <link>/publication/situation-awareness/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/project/arg/</guid>
-      <description>click here to look at interactive visualization developed to analyze gameplay from an Alternate Reality Game.</description>
+      <guid>/publication/situation-awareness/</guid>
+      <description></description>
     </item>
     
   </channel>
