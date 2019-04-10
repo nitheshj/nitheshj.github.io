@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Nithesh Javvaji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,36 +14,36 @@
     <item>
       <title>Behavior Analytics</title>
       <link>/tags/behavior-analytics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>/tags/behavior-analytics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Game Design</title>
       <link>/tags/game-design/</link>
-      <pubDate>Tue, 09 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>/tags/game-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interactive-Visualization</title>
+      <link>/tags/interactive-visualization/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/interactive-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
       <description></description>
     </item>
     
