@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine-learning on Nithesh Javvaji</title>
-    <link>/tags/machine-learning/</link>
+    <link>https://nitheshj.github.io/tags/machine-learning/</link>
     <description>Recent content in machine-learning on Nithesh Javvaji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Apr 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nitheshj.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Human-In-the-Loop approach to modeling adaptability in team environments</title>
-      <link>/publication/human-in-the-loop/</link>
+      <link>https://nitheshj.github.io/publication/human-in-the-loop/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/publication/human-in-the-loop/</guid>
+      <guid>https://nitheshj.github.io/publication/human-in-the-loop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational Modeling of Situation Awareness in a Business Simulation Game</title>
-      <link>/publication/situation-awareness/</link>
+      <link>https://nitheshj.github.io/publication/situation-awareness/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/publication/situation-awareness/</guid>
+      <guid>https://nitheshj.github.io/publication/situation-awareness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring Individual Differences and Adaptability</title>
-      <link>/project/arg/</link>
+      <link>https://nitheshj.github.io/project/arg/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/project/arg/</guid>
-      <description>click here to look at interactive visualization developed to analyze gameplay from an Alternate Reality Game.</description>
+      <guid>https://nitheshj.github.io/project/arg/</guid>
+      <description>A novel methodology to understand factors influencing team performance using Alternate Realty Games (ARGs) .</description>
     </item>
     
   </channel>

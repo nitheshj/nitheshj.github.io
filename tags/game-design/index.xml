@@ -2,33 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game Design on Nithesh Javvaji</title>
-    <link>/tags/game-design/</link>
+    <link>https://nitheshj.github.io/tags/game-design/</link>
     <description>Recent content in Game Design on Nithesh Javvaji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Apr 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/game-design/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nitheshj.github.io/tags/game-design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>StudyCrafter</title>
-      <link>/project/studycrafter/</link>
+      <link>https://nitheshj.github.io/project/studycrafter/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/project/studycrafter/</guid>
-      <description>Studycrafter Workspace   -- StudyCrafter is a playful platform where you can create, play and share research projects to study human behavior and decision-making. I&amp;rsquo;m part of the team contributing to the research and development of this platform as well as efforts on back-end development and database design for this project.
-The video below demonstrates the use of the platform.
-  </description>
+      <guid>https://nitheshj.github.io/project/studycrafter/</guid>
+      <description>A free playful platform where users can create, play, and share research projects to understand human behavior.</description>
     </item>
     
     <item>
       <title>Gravity Bender</title>
-      <link>/project/gravity-bender-game/</link>
+      <link>https://nitheshj.github.io/project/gravity-bender-game/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/project/gravity-bender-game/</guid>
-      <description></description>
+      <guid>https://nitheshj.github.io/project/gravity-bender-game/</guid>
+      <description>A fun game of solving puzzles by bending gravity.</description>
     </item>
     
   </channel>

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Nithesh Javvaji</title>
-    <link>/authors/</link>
+    <link>https://nitheshj.github.io/authors/</link>
     <description>Recent content in Authors on Nithesh Javvaji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Apr 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nitheshj.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Madkour</title>
-      <link>/authors/a-madkour/</link>
+      <link>https://nitheshj.github.io/authors/a-madkour/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/authors/a-madkour/</guid>
+      <guid>https://nitheshj.github.io/authors/a-madkour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nithesh Javvaji</title>
-      <link>/authors/nithesh-javvaji/</link>
+      <link>https://nitheshj.github.io/authors/nithesh-javvaji/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/authors/nithesh-javvaji/</guid>
+      <guid>https://nitheshj.github.io/authors/nithesh-javvaji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>admin</title>
-      <link>/authors/admin/</link>
+      <link>https://nitheshj.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
+      <guid>https://nitheshj.github.io/authors/admin/</guid>
       <description></description>
     </item>
     

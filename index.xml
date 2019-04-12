@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nithesh Javvaji on Nithesh Javvaji</title>
-    <link>/</link>
+    <link>https://nitheshj.github.io/</link>
     <description>Recent content in Nithesh Javvaji on Nithesh Javvaji</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
@@ -11,39 +10,39 @@
     
     <item>
       <title>A Human-In-the-Loop approach to modeling adaptability in team environments</title>
-      <link>/publication/human-in-the-loop/</link>
+      <link>https://nitheshj.github.io/publication/human-in-the-loop/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/publication/human-in-the-loop/</guid>
+      <guid>https://nitheshj.github.io/publication/human-in-the-loop/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Computational Modeling of Situation Awareness in a Business Simulation Game</title>
-      <link>/publication/situation-awareness/</link>
+      <link>https://nitheshj.github.io/publication/situation-awareness/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/publication/situation-awareness/</guid>
+      <guid>https://nitheshj.github.io/publication/situation-awareness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring Individual Differences and Adaptability</title>
-      <link>/project/arg/</link>
+      <link>https://nitheshj.github.io/project/arg/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/project/arg/</guid>
+      <guid>https://nitheshj.github.io/project/arg/</guid>
       <description>&lt;p&gt;click &lt;a href=&#34;https://nitheshj.github.io/GlyphARG/index.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; to look at interactive visualization developed to analyze gameplay from an Alternate Reality Game.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>StudyCrafter</title>
-      <link>/project/studycrafter/</link>
+      <link>https://nitheshj.github.io/project/studycrafter/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/project/studycrafter/</guid>
+      <guid>https://nitheshj.github.io/project/studycrafter/</guid>
       <description>&lt;!-- 
 
 
@@ -74,19 +73,19 @@
     
     <item>
       <title>Gravity Bender</title>
-      <link>/project/gravity-bender-game/</link>
+      <link>https://nitheshj.github.io/project/gravity-bender-game/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/project/gravity-bender-game/</guid>
+      <guid>https://nitheshj.github.io/project/gravity-bender-game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Page</title>
-      <link>/tutorial/example/</link>
+      <link>https://nitheshj.github.io/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tutorial/example/</guid>
+      <guid>https://nitheshj.github.io/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
