@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Nithesh Javvaji</title>
@@ -6,18 +6,14 @@
     <description>Recent content in Projects on Nithesh Javvaji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://nitheshj.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 -0400</lastBuildDate><atom:link href="https://nitheshj.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Measuring Individual Differences and Adaptability</title>
       <link>https://nitheshj.github.io/project/arg/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>https://nitheshj.github.io/project/arg/</guid>
-      <description>click here to look at interactive visualization developed to analyze gameplay from an Alternate Reality Game.</description>
+      <description>A novel methodology to understand factors influencing team performance using Alternate Realty Games (ARGs) .</description>
     </item>
     
     <item>
@@ -26,9 +22,7 @@
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>https://nitheshj.github.io/project/studycrafter/</guid>
-      <description>Studycrafter Workspace   -- StudyCrafter is a playful platform where you can create, play and share research projects to study human behavior and decision-making. I&amp;rsquo;m part of the team contributing to the research and development of this platform as well as efforts on back-end development and database design for this project.
-The video below demonstrates the use of the platform.
-  </description>
+      <description>A free playful platform where users can create, play, and share research projects to understand human behavior.</description>
     </item>
     
     <item>
@@ -37,7 +31,7 @@ The video below demonstrates the use of the platform.
       <pubDate>Tue, 09 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>https://nitheshj.github.io/project/gravity-bender-game/</guid>
-      <description></description>
+      <description>A fun game of solving puzzles by bending gravity.</description>
     </item>
     
   </channel>

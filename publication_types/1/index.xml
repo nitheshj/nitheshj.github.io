@@ -1,23 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Nithesh Javvaji</title>
-    <link>/publication_types/1/</link>
+    <link>https://nitheshj.github.io/publication_types/1/</link>
     <description>Recent content in 1 on Nithesh Javvaji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 04 Nov 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://nitheshj.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preliminary Development and Evaluation of the Mini Player Experience Inventory (mPXI)</title>
+      <link>https://nitheshj.github.io/publication/mpxi/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://nitheshj.github.io/publication/mpxi/</guid>
+      <description></description>
+    </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      <title>Understanding Player Patterns by Combining Knowledge-Based Data Abstraction with Interactive Visualization</title>
+      <link>https://nitheshj.github.io/publication/human-in-the-loop/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 -0500</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>https://nitheshj.github.io/publication/human-in-the-loop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaming4All: Reflecting on Diversity, Equity, and Inclusion for Game-Based Engineering Education</title>
+      <link>https://nitheshj.github.io/publication/fie2020/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://nitheshj.github.io/publication/fie2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Player-AI Interaction: What Can Neural Network Games Tell Us About AI as Play?</title>
+      <link>https://nitheshj.github.io/publication/player-nn/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://nitheshj.github.io/publication/player-nn/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,9 +1,140 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
     
+      <loc>https://nitheshj.github.io/publication_types/1/</loc>
+      <lastmod>2020-11-04T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/authors/</loc>
+      <lastmod>2020-11-04T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/authors/casper-harteveld/</loc>
+      <lastmod>2020-11-04T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/authors/nithesh-javvaji/</loc>
+      <lastmod>2020-11-04T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/</loc>
+      <lastmod>2020-11-04T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/tags/player-experience/</loc>
+      <lastmod>2020-11-04T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/publication/mpxi/</loc>
+      <lastmod>2020-11-04T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/publication_types/</loc>
+      <lastmod>2020-11-04T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/publication/</loc>
+      <lastmod>2020-11-04T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/tags/serious-games/</loc>
+      <lastmod>2020-11-04T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/tags/statistics/</loc>
+      <lastmod>2020-11-04T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/tags/</loc>
+      <lastmod>2020-11-04T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/authors/tiago-machado/</loc>
+      <lastmod>2020-11-04T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/tags/behavior-analytics/</loc>
+      <lastmod>2020-11-03T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/tags/data-mining/</loc>
+      <lastmod>2020-11-03T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/tags/interactive-visualization/</loc>
+      <lastmod>2020-11-03T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/authors/magy-seif-el-nasr/</loc>
+      <lastmod>2020-11-03T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://nitheshj.github.io/publication/human-in-the-loop/</loc>
+      <lastmod>2020-11-03T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/publication/fie2020/</loc>
+      <lastmod>2020-10-04T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/tags/human-ai-interaction/</loc>
+      <lastmod>2020-04-10T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/tags/machine-learning/</loc>
+      <lastmod>2020-04-10T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/publication/player-nn/</loc>
+      <lastmod>2020-04-10T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/publication_types/0/</loc>
       <lastmod>2019-04-10T00:00:00-04:00</lastmod>
     </url>
   
@@ -15,7 +146,19 @@
   
     <url>
     
+      <loc>https://nitheshj.github.io/tags/game-design/</loc>
+      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://nitheshj.github.io/project/arg/</loc>
+      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/project/</loc>
       <lastmod>2019-04-10T00:00:00-04:00</lastmod>
     </url>
   
@@ -23,6 +166,12 @@
     
       <loc>https://nitheshj.github.io/project/studycrafter/</loc>
       <lastmod>2019-04-10T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://nitheshj.github.io/tags/games/</loc>
+      <lastmod>2019-04-09T00:00:00-04:00</lastmod>
     </url>
   
     <url>
@@ -50,70 +199,17 @@
   
     <url>
     
-      <loc>https://nitheshj.github.io/publication_types/0/</loc>
-      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://nitheshj.github.io/authors/a-madkour/</loc>
-      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
-      <priority>0</priority>
+      <loc>https://nitheshj.github.io/authors/admin/</loc>
     </url>
   
     <url>
     
       <loc>https://nitheshj.github.io/author/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://nitheshj.github.io/authors/</loc>
-      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://nitheshj.github.io/tags/behavior-analytics/</loc>
-      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://nitheshj.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://nitheshj.github.io/tags/game-design/</loc>
-      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://nitheshj.github.io/tags/games/</loc>
-      <lastmod>2019-04-09T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://nitheshj.github.io/</loc>
-      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://nitheshj.github.io/authors/nithesh-javvaji/</loc>
-      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
@@ -123,54 +219,7 @@
   
     <url>
     
-      <loc>https://nitheshj.github.io/project/</loc>
-      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://nitheshj.github.io/publication_types/</loc>
-      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://nitheshj.github.io/publication/</loc>
-      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>https://nitheshj.github.io/talk/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>https://nitheshj.github.io/tags/</loc>
-      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://nitheshj.github.io/authors/admin/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://nitheshj.github.io/tags/interactive-visualization/</loc>
-      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://nitheshj.github.io/tags/machine-learning/</loc>
-      <lastmod>2019-04-10T00:00:00-04:00</lastmod>
-      <priority>0</priority>
     </url>
   
 </urlset>

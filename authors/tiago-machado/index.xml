@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiago Machado on Nithesh Javvaji</title>
+    <link>https://nitheshj.github.io/authors/tiago-machado/</link>
+    <description>Recent content in Tiago Machado on Nithesh Javvaji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Nov 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://nitheshj.github.io/authors/tiago-machado/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preliminary Development and Evaluation of the Mini Player Experience Inventory (mPXI)</title>
+      <link>https://nitheshj.github.io/publication/mpxi/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://nitheshj.github.io/publication/mpxi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaming4All: Reflecting on Diversity, Equity, and Inclusion for Game-Based Engineering Education</title>
+      <link>https://nitheshj.github.io/publication/fie2020/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://nitheshj.github.io/publication/fie2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
